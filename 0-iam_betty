@@ -1,2 +1,2 @@
 #!/bin/bash
-0-iam_betty
+-1 0-iam_betty | wc -c
